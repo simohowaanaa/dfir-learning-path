@@ -1,13 +1,32 @@
-# Section 02-Windows-Data-Acquisition — Windows Data Acquisition
+# Section 2 — Windows Data Acquisition
 
 6 leçons, 11 questions, 1 quiz.
+
+Niveau : Medium — ~2h pour compléter.
 
 ## Leçons
 
 | # | Titre | Statut |
 |---|-------|--------|
-| 1 | À définir | ⬜ |
+| 1 | Introduction | ⬜ |
+| 2 | Volatile and Non-Volatile Data on Windows | ⬜ |
+| 3 | Live Data Acquisition on Windows | ⬜ |
+| 4 | Live Data Acquisition Tools | ⬜ |
+| 5 | Dynamic Acquisition on Windows | ⬜ |
+| 6 | Copy and Duplicate on Windows | ⬜ |
 
 ## Quiz de section
 
-- Statut : ⬜
+- **Windows Data Acquisition** — Statut : ⬜
+
+## Prérequis
+
+- Compréhension de base des systèmes d'exploitation Windows
+- Familiarité avec les concepts de cybersécurité
+
+## Objectifs attendus
+
+- Maîtriser les techniques d'acquisition de données sur systèmes Windows
+- Analyser les preuves numériques avec des outils modernes
+- Comprendre les systèmes de fichiers Windows et leur mode de stockage des données
+- Renforcer ses compétences en cybersécurité appliquées à la forensique numérique
