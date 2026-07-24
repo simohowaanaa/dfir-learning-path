@@ -10,7 +10,7 @@ Niveau : Medium — ~1.5h pour compléter.
 |---|-------|--------|
 | 1 | [Introduction](01-Introduction.md) | ✅ |
 | 2 | [Basics of Hard Disks](02-Basics-of-Hard-Disks.md) | ✅ |
-| 3 | Windows File System Fundamentals | ⬜ |
+| 3 | [Windows File System Fundamentals](03-Windows-File-System-Fundamentals.md) | ✅ |
 | 4 | Basics of *nix File Systems | ⬜ |
 | 5 | Basics of *nix Filesystems - 2 | ⬜ |
 
