@@ -11,12 +11,12 @@ Niveau : Medium — ~1.5h pour compléter.
 | 1 | [Introduction](01-Introduction.md) | ✅ |
 | 2 | [Basics of Hard Disks](02-Basics-of-Hard-Disks.md) | ✅ |
 | 3 | [Windows File System Fundamentals](03-Windows-File-System-Fundamentals.md) | ✅ |
-| 4 | Basics of *nix File Systems | ⬜ |
-| 5 | Basics of *nix Filesystems - 2 | ⬜ |
+| 4 | [Basics of *nix File Systems](04-Basics-of-nix-File-Systems.md) | ✅ |
+| 5 | [Basics of *nix Filesystems - 2](05-Basics-of-nix-Filesystems-2.md) | ✅ |
 
 ## Quiz de section
 
-- **Basics of Hard Disks and File Systems** — Statut : ⬜
+- **Basics of Hard Disks and File Systems** — Statut : ✅ (badge obtenu)
 
 ## Prérequis
 
