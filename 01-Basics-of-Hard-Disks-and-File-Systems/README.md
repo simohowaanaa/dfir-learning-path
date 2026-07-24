@@ -8,8 +8,8 @@ Niveau : Medium — ~1.5h pour compléter.
 
 | # | Titre | Statut |
 |---|-------|--------|
-| 1 | Introduction | ⬜ |
-| 2 | Basics of Hard Disks | ⬜ |
+| 1 | [Introduction](01-Introduction.md) | ✅ |
+| 2 | [Basics of Hard Disks](02-Basics-of-Hard-Disks.md) | ✅ |
 | 3 | Windows File System Fundamentals | ⬜ |
 | 4 | Basics of *nix File Systems | ⬜ |
 | 5 | Basics of *nix Filesystems - 2 | ⬜ |
