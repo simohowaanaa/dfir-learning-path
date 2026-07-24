@@ -16,7 +16,7 @@ Niveau : Medium — ~1.5h pour compléter.
 
 ## Quiz de section
 
-- **Basics of Hard Disks and File Systems** — Statut : ✅ (badge obtenu)
+- **Basics of Hard Disks and File Systems** — Statut : ✅ (badge obtenu) — [Détail des réponses](06-Quiz-Final.md)
 
 ## Prérequis
 
