@@ -17,7 +17,7 @@ Niveau : Medium — ~2h pour compléter.
 
 ## Quiz de section
 
-- **Windows Data Acquisition** — Statut : ⬜
+- **Windows Data Acquisition** — Statut : ✅ (68 points) — [Détail des réponses](07-Quiz-Final.md)
 
 ## Prérequis
 

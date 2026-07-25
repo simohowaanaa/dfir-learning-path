@@ -13,7 +13,7 @@ Notes structurées et suivi de progression pour le path **DFIR Learning Path** d
 | # | Section | Contenu | Statut |
 |---|---------|---------|--------|
 | 1 | [Basics of Hard Disks and File Systems](01-Basics-of-Hard-Disks-and-File-Systems/README.md) | 5 leçons, 14 questions, 1 quiz | ✅ |
-| 2 | [Windows Data Acquisition](02-Windows-Data-Acquisition/README.md) | 6 leçons, 11 questions, 1 quiz | 🟨 |
+| 2 | [Windows Data Acquisition](02-Windows-Data-Acquisition/README.md) | 6 leçons, 11 questions, 1 quiz | ✅ |
 | 3 | [Anti-Forensic Techniques](03-Anti-Forensic-Techniques/README.md) | 8 leçons, 17 questions, 1 quiz | ⬜ |
 | 4 | [Digital Forensics on Linux](04-Digital-Forensics-on-Linux/README.md) | 7 leçons, 16 questions, 1 quiz | ⬜ |
 | 5 | [Windows Memory Forensics](05-Windows-Memory-Forensics/README.md) | 5 leçons, 17 questions, 1 quiz | ⬜ |
