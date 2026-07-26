@@ -1,81 +1,44 @@
-# DFIR Learning Path
+# DFIR Learning Path — LetsDefend
 
-> Mon parcours d'apprentissage en **DFIR** — *Digital Forensics & Incident Response*.
-> Notes, méthodologie et ressources pour l'investigation numérique et la réponse à incident.
+Notes structurées et suivi de progression pour le path **DFIR Learning Path** de LetsDefend (Digital Forensics and Incident Response).
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-DFIR-2b6cb0?style=flat-square">
-  <img src="https://img.shields.io/badge/Blue%20Team-SOC-4a5568?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-En%20cours-6b46c1?style=flat-square">
-</p>
+> Advance your cybersecurity career with our DFIR learning path. Acquire practical skills in digital forensics and incident response to safeguard data.
 
----
+- Niveau : Hard
+- Prérequis : connaissances de base en cybersécurité, familiarité avec les systèmes/réseaux
+- Objectif final : Certificat "Digital Forensics and Incident Response" + badge "DFIR Learning Path"
 
-## Objectif
+## Suivi global
 
-Développer une méthodologie solide de **réponse à incident** et d'**analyse forensique**
-pour appuyer mon parcours d'analyste SOC / Blue Team.
+| # | Section | Contenu | Statut |
+|---|---------|---------|--------|
+| 1 | [Basics of Hard Disks and File Systems](01-Basics-of-Hard-Disks-and-File-Systems/README.md) | 5 leçons, 14 questions, 1 quiz | ✅ |
+| 2 | [Windows Data Acquisition](02-Windows-Data-Acquisition/README.md) | 6 leçons, 11 questions, 1 quiz | ✅ |
+| 3 | [Anti-Forensic Techniques](03-Anti-Forensic-Techniques/README.md) | 8 leçons, 17 questions, 1 quiz | ⬜ |
+| 4 | [Digital Forensics on Linux](04-Digital-Forensics-on-Linux/README.md) | 7 leçons, 16 questions, 1 quiz | ⬜ |
+| 5 | [Windows Memory Forensics](05-Windows-Memory-Forensics/README.md) | 5 leçons, 17 questions, 1 quiz | ⬜ |
+| 6 | [Linux Memory Forensics](06-Linux-Memory-Forensics/README.md) | 5 leçons, 16 questions, 1 challenge, 1 quiz | ⬜ |
+| 7 | [Network Forensics](07-Network-Forensics/README.md) | 7 leçons, 19 questions, 1 quiz | ⬜ |
+| 8 | [Email Forensics](08-Email-Forensics/README.md) | 7 leçons, 19 questions, 1 quiz | ⬜ |
+| 9 | [Android Forensics](09-Android-Forensics/README.md) | 5 leçons, 13 questions, 1 quiz | ⬜ |
+| 10 | [iOS Forensics](10-iOS-Forensics/README.md) | 7 leçons, 18 questions, 1 challenge, 1 quiz | ⬜ |
+| 11 | [Understanding Malware](11-Understanding-Malware/README.md) | 4 leçons, 13 questions, 1 quiz | ⬜ |
+| 12 | [DFIR with EDR](12-DFIR-with-EDR/README.md) | 6 leçons, 17 questions, 1 quiz | ⬜ |
 
----
+**Légende** : ⬜ à faire · 🟨 en cours · ✅ terminé
 
-## Domaines couverts
+## Objectifs attendus (Expected Outcomes)
 
-- **Incident Response** — cycle de réponse à incident (préparation, identification,
-  confinement, éradication, remédiation, retour d'expérience)
-- **Disk Forensics** — analyse de systèmes de fichiers, artefacts, fichiers supprimés
-- **Memory Forensics** — analyse de dumps mémoire (Volatility)
-- **Windows Forensics** — registre, Event Logs, MFT, prefetch, artefacts d'exécution
-- **Network Forensics** — analyse de captures (Wireshark, PCAP)
-- **Timeline & Triage** — reconstruction chronologique, collecte de preuves
+- Développer des compétences avancées en forensique numérique (récupération et analyse de données)
+- Répondre efficacement aux incidents et violations de cybersécurité
+- Réaliser des analyses de cause racine et des évaluations de menaces
+- Comprendre la conformité légale et réglementaire en cybersécurité
+- Maîtriser les outils et technologies DFIR standards de l'industrie
 
----
+## Public visé
 
-## Méthodologie de réponse à incident
-
-| Phase | Description |
-|-------|-------------|
-| **1. Préparation** | Outils, procédures et environnement prêts |
-| **2. Identification** | Détecter et qualifier l'incident |
-| **3. Confinement** | Limiter la propagation |
-| **4. Éradication** | Supprimer la cause racine |
-| **5. Remédiation** | Restaurer les systèmes sains |
-| **6. Leçons apprises** | Documenter et améliorer |
-
----
-
-## Outils
-
-- **Forensics** : Autopsy, FTK Imager, Volatility, plaso / log2timeline
-- **Windows** : Event Viewer, Registry Explorer, Eric Zimmerman tools
-- **Réseau** : Wireshark, tcpdump, NetworkMiner
-- **Analyse** : VirusTotal, YARA
-
----
-
-## Structure du dépôt
-
-```text
-dfir-learning-path/
-├── incident-response/    # Notes et procédures IR
-├── disk-forensics/       # Analyse disque
-├── memory-forensics/     # Analyse mémoire (Volatility)
-├── windows-forensics/    # Artefacts Windows
-├── network-forensics/    # Analyse réseau / PCAP
-└── resources/            # Liens, cheat sheets, références
-```
-
----
-
-## Ressources
-
-- [DFIR.training](https://www.dfir.training/)
-- [SANS DFIR Posters & Cheat Sheets](https://www.sans.org/posters/?focus-area=digital-forensics)
-- [Volatility Foundation](https://www.volatilityfoundation.org/)
-- [Eric Zimmerman's Tools](https://ericzimmerman.github.io/)
-
----
-
-## Auteur
-
-**Maimouni Mohammed** — Étudiant en cybersécurité, orientation SOC / Blue Team
-[GitHub](https://github.com/simohowaanaa) · [LinkedIn](https://www.linkedin.com/in/mohammed-maimouni/)
+- Professionnels cybersécurité débutants/intermédiaires souhaitant se spécialiser en DFIR
+- Professionnels IT voulant étendre leur expertise en détection/réponse aux menaces
+- Étudiants et jeunes diplômés
+- Analystes sécurité approfondissant les investigations forensiques
+- Personnes en reconversion vers un rôle cybersécurité orienté DFIR
